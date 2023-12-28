@@ -1,0 +1,13 @@
+.statList {
+  list-style: none;
+  padding: 0;
+}
+
+.statItem {
+  margin-bottom: 10px;
+}
+
+.statItem:last-child {
+  margin-bottom: 0;
+  /* Убирает отступ снизу у последнего элемента */
+}
